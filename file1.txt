@@ -1,0 +1,5 @@
+addition (8+7)
+subtraction (8-7)
+multiplication(6*9)
+
+
